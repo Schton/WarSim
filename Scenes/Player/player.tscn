@@ -4,7 +4,6 @@
 [ext_resource type="PackedScene" uid="uid://t75wk6vq6cet" path="res://Scenes/Entities/projectile.tscn" id="2_gmlin"]
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_a3d8c"]
-load_path = "res://.godot/imported/slash_oversize.png-05ebe591cdc2e9aa8c869f480785bf13.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_5gtgg"]
 atlas = SubResource("CompressedTexture2D_a3d8c")
@@ -103,7 +102,6 @@ atlas = SubResource("CompressedTexture2D_a3d8c")
 region = Rect2(960, 576, 192, 192)
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_xpcdj"]
-load_path = "res://.godot/imported/spellcast.png-e23d8ce500e2bd4160fb2143ec402dd3.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_8lfxt"]
 atlas = SubResource("CompressedTexture2D_xpcdj")
@@ -218,7 +216,6 @@ atlas = SubResource("CompressedTexture2D_xpcdj")
 region = Rect2(384, 0, 64, 64)
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_mtuoh"]
-load_path = "res://.godot/imported/hurt.png-36df9205200a63fa7e46f101d7beaf70.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_ws0t6"]
 atlas = SubResource("CompressedTexture2D_mtuoh")
@@ -245,7 +242,6 @@ atlas = SubResource("CompressedTexture2D_mtuoh")
 region = Rect2(320, 0, 64, 64)
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_htcer"]
-load_path = "res://.godot/imported/walk.png-19962b1b68bd8abde5f51aa1046607d2.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_p47bc"]
 atlas = SubResource("CompressedTexture2D_htcer")
@@ -816,9 +812,7 @@ position = Vector2(0, -21)
 y_sort_enabled = true
 position = Vector2(0, -10)
 sprite_frames = SubResource("SpriteFrames_lvxji")
-animation = &"cast_up"
-frame = 6
-frame_progress = 1.0
+animation = &"attack_right"
 offset = Vector2(0, -15)
 
 [node name="EnvironmentCollision" type="CollisionShape2D" parent="." unique_id=1725552356]

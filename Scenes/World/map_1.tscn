@@ -4,7 +4,7 @@
 [ext_resource type="Texture2D" uid="uid://chei7qhbgjss4" path="res://Assets/World/Terrain/Tileset/Water Background color.png" id="1_tiebe"]
 [ext_resource type="Texture2D" uid="uid://c00piqpyijhwt" path="res://Assets/World/Terrain/Tileset/Water Foam.png" id="2_5tr0j"]
 [ext_resource type="Texture2D" uid="uid://074pibnsawrs" path="res://Assets/World/Terrain/Decorations/Rocks in the Water/Water Rocks_02.png" id="2_efu32"]
-[ext_resource type="Texture2D" uid="uid://c281lrgxiskjq" path="res://Assets/World/MainLev2.0.png" id="3_5tr0j"]
+[ext_resource type="Texture2D" uid="uid://c281lrgxiskjq" path="res://Assets/World/Old/MainLev2.0.png" id="3_5tr0j"]
 [ext_resource type="Texture2D" uid="uid://bvdtjgxf60lbt" path="res://Assets/World/Terrain/Tileset/Tilemap_color1.png" id="3_usk20"]
 [ext_resource type="Texture2D" uid="uid://c7ujvpm68yuse" path="res://Assets/World/Terrain/Tileset/Tilemap_color2.png" id="4_ss0rt"]
 [ext_resource type="Texture2D" uid="uid://ff3b4j2ej35i" path="res://Assets/World/Terrain/Tileset/Tilemap_color3.png" id="5_0m0fe"]
